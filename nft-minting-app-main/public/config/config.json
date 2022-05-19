@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x52f63f72a40b5481b27aeC4CA9DC143FE4CA1D55",
+  "SCAN_LINK": "https://songbird-explorer.flare.network/address/0x52f63f72a40b5481b27aeC4CA9DC143FE4CA1D55",
+  "NETWORK": {
+    "NAME": "Songbird",
+    "SYMBOL": "SGB",
+    "ID": 19
+  },
+  "NFT_NAME": "Celestial Samurai",
+  "SYMBOL": "CSPD",
+  "MAX_SUPPLY": 507,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Sparkles",
+  "MARKETPLACE_LINK": "https://sparklesnft.com/collection/0x52f63f72a40b5481b27aec4ca9dc143fe4ca1d55",
+  "SHOW_BACKGROUND": true
+}
